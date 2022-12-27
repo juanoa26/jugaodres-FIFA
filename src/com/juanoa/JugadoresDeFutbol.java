@@ -12,4 +12,8 @@ public class JugadoresDeFutbol {
         System.out.println("El jugador está corriendo");
     }
 
+    void correr(boolean tieneElBalon) {
+        System.out.println("El jugador corre mas lento");
+    }
+
 }
